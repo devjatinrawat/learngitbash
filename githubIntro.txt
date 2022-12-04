@@ -1,2 +1,9 @@
-GitHub, Inc. (/ˈɡɪthʌb/[a]) is an Internet hosting service for
-software development and version control using Git.
+https://miro.medium.com/max/910/1*Wjxx83j-qyiNvFBy1yOA1w.jpeg
+
+Git is a free and open source distributed version control system designed to 
+handle everything from small to very large projects with speed and efficiency.
+
+
+Facts 
+
+https://www.rankred.com/facts-and-statistics-about-github/
